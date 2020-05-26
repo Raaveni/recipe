@@ -2,11 +2,7 @@
 * 3 cloves of garlic
 * 1 onion
 * 1 lemon
-<<<<<<< HEAD
 * 2 tsp salt
-* 1/2 tbs cilantro
-=======
-* 1/2 tsp salt
->>>>>>> less-salt
+* 2 tbs cilantro
 * pinch of black pepper
 * a nice amount of chili
