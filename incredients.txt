@@ -3,7 +3,7 @@
 * 1 onion
 * 1 lemon
 <<<<<<< HEAD
-* 1 tsp salt
+* 2 tsp salt
 * 1 tbs cilantro
 =======
 * 1/2 tsp salt
